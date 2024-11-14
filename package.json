@@ -1,0 +1,10 @@
+{
+  "name": "tris",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "hello ",
+  "main": "index.js",
+  "repository": "git@github.com:tranductri138/DesignPatternESModule.git",
+  "author": "tranductri <tritocao@gmail.com>",
+  "license": "MIT"
+}
